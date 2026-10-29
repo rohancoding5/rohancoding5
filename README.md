@@ -31,7 +31,7 @@ I'm a high school developer who learns by building real things. I like clear pro
 
 | 🎯 Focused on | 🛠️ Building | 🔐 Interested in |
 |:---:|:---:|:---:|
-| Shipping real products | AI agent tooling | Agent safety & security |
+| Building real products | AI agent tooling | Agent safety & security |
 | Clean, readable code | Developer tools | Software archaeology |
 | Clear user problems | Web apps & APIs | Accessibility |
 
@@ -81,9 +81,9 @@ I'm a high school developer who learns by building real things. I like clear pro
 
 <div align="center">
 
-| 🚀 Shipping | 🤖 AI tooling | 🌐 Web apps |
+| 🚀 Building | 🤖 AI tooling | 🌐 Web apps |
 |:---:|:---:|:---:|
-| Taking an idea from nothing to live | Agent safety, context and orchestration | Front ends, back ends and APIs |
+| Taking an idea from nothing to a working product | Agent safety, context and orchestration | Front ends, back ends and APIs |
 
 | 🗄️ Databases | 🧹 Clean code | 📚 Learning fast |
 |:---:|:---:|:---:|

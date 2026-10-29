@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="Rohan Seth. Developer, Founder, Speaker.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0e1624"/><stop offset=".55" stop-color="#12424a"/><stop offset="1" stop-color="#b8431a"/>
+    </linearGradient>
+    <linearGradient id="w1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f2c48f" stop-opacity=".35"/><stop offset="1" stop-color="#e0561f" stop-opacity=".55"/></linearGradient>
+    <linearGradient id="w2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2aa7a0" stop-opacity=".35"/><stop offset="1" stop-color="#f2c48f" stop-opacity=".3"/></linearGradient>
+    <linearGradient id="t" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f6d3a2"/></linearGradient>
+    <radialGradient id="glow" cx=".85" cy=".1" r=".7"><stop offset="0" stop-color="#f2c48f" stop-opacity=".35"/><stop offset="1" stop-color="#f2c48f" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1000" height="280" fill="url(#bg)"/>
+  <rect width="1000" height="280" fill="url(#glow)"/>
+  <g fill="#fff">
+    <circle cx="90" cy="60" r="2" opacity=".5"><animate attributeName="opacity" values=".15;.8;.15" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="240" cy="40" r="1.5" opacity=".5"><animate attributeName="opacity" values=".8;.15;.8" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="770" cy="50" r="2" opacity=".5"><animate attributeName="opacity" values=".2;.9;.2" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="900" cy="105" r="1.5" opacity=".5"><animate attributeName="opacity" values=".7;.1;.7" dur="4.5s" repeatCount="indefinite"/></circle>
+    <circle cx="140" cy="160" r="1.5" opacity=".5"><animate attributeName="opacity" values=".1;.7;.1" dur="6s" repeatCount="indefinite"/></circle>
+  </g>
+  <g transform="translate(500 112)" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">
+    <text font-size="76" font-weight="300" letter-spacing="-3" fill="url(#t)">Rohan Seth</text>
+    <text y="48" font-size="21" font-weight="400" letter-spacing="5" fill="#ffffff" opacity=".85">DEVELOPER  ·  FOUNDER  ·  SPEAKER</text>
+  </g>
+  <path fill="url(#w2)">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite" values="M0 235 C150 205 300 265 500 235 S850 205 1000 240 V280 H0Z;M0 245 C150 270 300 210 500 240 S850 270 1000 235 V280 H0Z;M0 235 C150 205 300 265 500 235 S850 205 1000 240 V280 H0Z"/>
+  </path>
+  <path fill="url(#w1)">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0 250 C200 225 350 275 550 250 S850 230 1000 255 V280 H0Z;M0 258 C200 280 350 235 550 255 S850 275 1000 248 V280 H0Z;M0 250 C200 225 350 275 550 250 S850 230 1000 255 V280 H0Z"/>
+  </path>
+</svg>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="Rohan Seth. Developer, Founder, Speaker.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="Rohan Seth. Developer, Founder, Builder.">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0e1624"/><stop offset=".55" stop-color="#12424a"/><stop offset="1" stop-color="#b8431a"/>
@@ -19,7 +19,7 @@
   </g>
   <g transform="translate(500 112)" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">
     <text font-size="76" font-weight="300" letter-spacing="-3" fill="url(#t)">Rohan Seth</text>
-    <text y="48" font-size="21" font-weight="400" letter-spacing="5" fill="#ffffff" opacity=".85">DEVELOPER  ·  FOUNDER  ·  SPEAKER</text>
+    <text y="48" font-size="21" font-weight="400" letter-spacing="5" fill="#ffffff" opacity=".85">DEVELOPER  ·  FOUNDER  ·  BUILDER</text>
   </g>
   <path fill="url(#w2)">
     <animate attributeName="d" dur="9s" repeatCount="indefinite" values="M0 235 C150 205 300 265 500 235 S850 205 1000 240 V280 H0Z;M0 245 C150 270 300 210 500 240 S850 270 1000 235 V280 H0Z;M0 235 C150 205 300 265 500 235 S850 205 1000 240 V280 H0Z"/>

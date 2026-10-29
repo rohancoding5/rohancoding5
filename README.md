@@ -25,13 +25,13 @@
 
 ## 👋 About Me
 
-I'm a high school developer who learns by building real things. I like clear problems, clean code, and software that people actually use.
+I'm a high school developer who learns by building things. I like clear problems, clean code, and software that people use.
 
 <div align="center">
 
 | 🎯 Focused on | 🛠️ Building | 🔐 Interested in |
 |:---:|:---:|:---:|
-| Building real products | AI agent tooling | Agent safety & security |
+| Building products | AI agent tooling | Agent safety & security |
 | Clean, readable code | Developer tools | Software archaeology |
 | Clear user problems | Web apps & APIs | Accessibility |
 
